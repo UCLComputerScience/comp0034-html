@@ -13,7 +13,9 @@ p.responsive {
     font-size: 2vw;
 }
 
-/* Media queries to change the background colour based on the screen size */
+/* Media queries to change the background colour based on the screen size
+screen - means primarily intended for screens
+min-width - */
 @media screen and (min-width: 20px) {
     body {
         background-color: white;
